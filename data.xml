@@ -1,0 +1,13 @@
+<?xml ?><company class="Sample StAX XML Parser In Java">
+    <name>Shiv Pratap Singh</name>
+    <title>Student</title>
+    <email>shivpratapsingh643@gmail.com</email>
+    <phone>1234567890</phone>
+
+<name>Vishnu Pratap Singh </name>
+    <title>Student</title>
+    <email>pv901@gmail.com</email>
+    <phone>1122334455</phone>
+
+</company>
+
